@@ -1,9 +1,6 @@
 package com.kuzNET.listvisualizerandroid.list
 
 import com.kuzNET.listvisualizerandroid.data.Comparator
-import com.kuzNET.listvisualizerandroid.data.DoWith
-import com.kuzNET.listvisualizerandroid.data.TestIt
-import com.kuzNET.listvisualizerandroid.data.UserFactory
 import com.kuzNET.listvisualizerandroid.data.UserType
 import java.io.*
 import org.json.JSONArray
